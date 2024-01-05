@@ -65,7 +65,7 @@
     transform: rotate(180deg);
   } */
   /* TRANSITION SHORTHAND */
-  div{
+  /* div{
     width: 100px;
     height: 30px;
     background-color: brown;
@@ -73,4 +73,4 @@
   }
   div:hover{
     width: 500px;
-  }
+  } */
